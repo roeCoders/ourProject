@@ -6,6 +6,12 @@
  */
 
 #include<iostream>
+#include"Telescope.h"
+#include"ExoplanetDatabase.h"
+#include"System.h"
+#include"RadialVelocity.h"
+#include"Transit.h"
+#include"DirectImaging.h"
 
 using namespace std;
 
