@@ -20,5 +20,15 @@ public class ActivityMenu extends Activity {
         return true;
     }
 
+    public void startActivitySystem(View view) {
+        Intent intent = new Intent(this, ActivitySystem.class);
+        startActivity(intent);
+    }
+
+    public void startActivityLoad(View view) {
+        Intent intent = new Intent(this, ActivityLoad.class);
+        startActivity(intent);
+    }
+
 }
 

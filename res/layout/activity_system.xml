@@ -9,8 +9,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:text="@string/button_splash_start_activity_menu"
-        android:onClick="startActivityMenu" />
+        android:text="@string/button_system_start_activity_observe"
+        android:onClick="startActivityObserve" />
 
 </RelativeLayout>
 

@@ -16,6 +16,21 @@
         android:theme="@style/AppTheme" >
 
         <activity
+            android:name="ActivityLoad"
+            android:label="@string/title_activity_load" >
+        </activity>
+
+        <activity
+            android:name="ActivityMenu"
+            android:label="@string/title_activity_menu" >
+        </activity>
+
+        <activity
+            android:name="ActivityObserve"
+            android:label="@string/title_activity_observe" >
+        </activity>
+
+        <activity
             android:name="ActivitySplash"
             android:label="@string/title_activity_splash" >
             <intent-filter>
@@ -25,8 +40,8 @@
         </activity>
 
         <activity
-            android:name="ActivityMenu"
-            android:label="@string/title_activity_menu" >
+            android:name="ActivitySystem"
+            android:label="@string/title_activity_system" >
         </activity>
 
     </application>

@@ -3,11 +3,20 @@
 <resources>
 
     <string name="app_name">ourProject</string>
-    <string name="menu_settings">Settings</string>
-    <string name="title_activity_splash">SplashActivity</string>
-    <string name="title_activity_menu">MenuActivity</string>
 
-    <string name="button_start_activity_menu">Start</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="title_activity_load">ActivityLoad</string>
+    <string name="title_activity_menu">ActivityMenu</string>
+    <string name="title_activity_observe">ActivityObserve</string>
+    <string name="title_activity_splash">ActivitySplash</string>
+    <string name="title_activity_system">ActivitySystem</string>
+
+    <string name="button_load_start_activity_system">Load System</string>
+    <string name="button_menu_start_activity_load">Load</string>
+    <string name="button_menu_start_activity_system">Advanced</string>
+    <string name="button_splash_start_activity_menu">Start</string>
+    <string name="button_system_start_activity_observe">Observe</string>
 
 </resources>
 
